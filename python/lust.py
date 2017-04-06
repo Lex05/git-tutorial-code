@@ -22,7 +22,7 @@ class FactorialCommand(LustObject):
     print(" fact <integer>")
     print("   Calculates the factorial of <integer>.")
 
-result = 0
+
   def __calculate_factorial(self, argument):
     # Hmmm...
 	i = 0
